@@ -1,9 +1,7 @@
     Arran
     22 y/o from Scotland
-    HND Digital Design and Development Student at NESCOL specialising in Games Development
-    Will be using this page most likely just to host any coding and stuff i do during the school year 
-    only to find out we arent actually doing any explicit coding and are instead using Unreal Engine Blueprints 
 
+    BA Game Design and Production student @ Abertay University (Currently in Year 2) 
 
 
 
