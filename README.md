@@ -1,7 +1,7 @@
     Arran
-    22 y/o from Scotland
+    23 y/o from Scotland
 
-    BA Game Design and Production student @ Abertay University (Currently in Year 2) 
+    HND Computing: Software Development @ Dundee and Angus College
 
 
 
