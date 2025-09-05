@@ -1,7 +1,7 @@
     Arran
-    23 y/o from Scotland
+    24 y/o from Scotland
 
-    HND Computing: Software Development @ Dundee and Angus College
+    Currently not actively studying, learning C# when the time allows
 
 
 
